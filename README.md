@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/yourprofile">
+  <a href="https://instagram.com/sumirzai">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/kingsum007">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/sumirzai">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -80,15 +80,15 @@
 - 💻 Passionate Web & Mobile Developer  
 - 🎓 Teacher at NIMA  
 - 🔥 Working with Laravel, Android (Jetpack Compose), Flutter, Node.js  
-- 📘 Writing a full PL/SQL book  
+- 📘 Wrote a full PL/SQL book  
 - 🧠 Love teaching programming to beginners  
 
 ---
 
 ## 📬 Contact Me
-- 📧 **Your email**
-- 🌐 Portfolio: *your website (optional)*  
-- 💬 Telegram: *your telegram link*  
+- 📧 **sumirzai@gmail.com**
+- 🌐 Portfolio: *flowcv.me/sumirzai*  
+- 💬 Telegram: *t.me/kingsum007*  
 
 ---
 
